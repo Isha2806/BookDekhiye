@@ -9,13 +9,25 @@ const bookDB = {
       name: "How To Win Friends and Inflence people",
       author: "Dale Carneige",
       goodreads:
-        "This is one of the most timeless self help books ever written.  Carnegie believed that most successes come from an ability to communicate effectively versus brilliant insights. This book teaches these skills by showing you how to value people and help them feel appreciated rather than manipulated. "
+        "Rating: 4.4/5 This is one of the most timeless self help books ever written.  Carnegie believed that most successes come from an ability to communicate effectively versus brilliant insights. This book teaches these skills by showing you how to value people and help them feel appreciated rather than manipulated. "
     },
     {
       name: "Think and Grow Rich",
       author: "Napolean Hill",
       goodreads:
-        "Hill was one of the first ever self help authors, and his books are incredibly relevant today. Think and Grow Rich condenses his laws of success and provides you with 13 principles of personal achievement."
+        "Rating: 4.4/5  Hill was one of the first ever self help authors, and his books are incredibly relevant today. Think and Grow Rich condenses his laws of success and provides you with 13 principles of personal achievement."
+    },
+    {
+      name: "Know Your Worth: How to build your self-esteem, grow in confidence and worry less about what people think",
+      author: "Dale Carneige",
+      goodreads:
+        "Rating: 4.4/5  This is one of the most timeless self help books ever written.  . "
+    },
+    {
+      name : "The 5 AM Club: Own Your Morning. Elevate Your Life. ",
+      author: " Robin Sharma ", 
+      goodreads:
+      "Revolutionise your day - and life - with Sharma's knowledge which, in this books, boils down to the importance of rising early at 5am to make the most of your day, mental wellbeing and productivity. Simply put, you should start your day with the 20/20/20 rule: spending 20 minutes for exercise, reflection and learning each.   "
     }
   ],
   Financial: [
