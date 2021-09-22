@@ -39,9 +39,15 @@ const bookDB = {
         "Kiyosaki tackles the ‘financial literacy” that’s never addressed in schools.  He had two father figures growing up.  One who struggled paycheck to paycheck for a lifetime whom he called “poor dad” and the other who was a multimillionaire eighth grade dropout he lovingly calls “rich dad”.  The concept behind the book is that rich people have money work for them while the poor work for money.  This is a must read to change anyone’s negative belief system on money or to further your understanding on how money can work "
     },
     {
-      name: "Rich Dad Poor Dad",
-      author: "Robert Kiyosaki",
-      goodreads: "Kiyosaki"
+      name:
+        "365 Questions, One Page Per Day: A One Year Self-Discovery Journal",
+      author: "Isha Patel",
+      goodreads: "Rating : 5/10 "
+    },
+    {
+      name: "Hinch Yourself Happy",
+      author: "nai btati ja ",
+      goodreads: "Rating: 9/10"
     }
   ],
   Entreprenure: [
