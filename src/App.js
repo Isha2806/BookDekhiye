@@ -18,16 +18,17 @@ const bookDB = {
         "Rating: 4.4/5  Hill was one of the first ever self help authors, and his books are incredibly relevant today. Think and Grow Rich condenses his laws of success and provides you with 13 principles of personal achievement."
     },
     {
-      name: "Know Your Worth: How to build your self-esteem, grow in confidence and worry less about what people think",
+      name:
+        "Know Your Worth: How to build your self-esteem, grow in confidence and worry less about what people think",
       author: "Dale Carneige",
       goodreads:
         "Rating: 4.4/5  This is one of the most timeless self help books ever written.  . "
     },
     {
-      name : "The 5 AM Club: Own Your Morning. Elevate Your Life. ",
-      author: " Robin Sharma ", 
+      name: "The 5 AM Club: Own Your Morning. Elevate Your Life. ",
+      author: " Robin Sharma ",
       goodreads:
-      "Revolutionise your day - and life - with Sharma's knowledge which, in this books, boils down to the importance of rising early at 5am to make the most of your day, mental wellbeing and productivity. Simply put, you should start your day with the 20/20/20 rule: spending 20 minutes for exercise, reflection and learning each.   "
+        "Revolutionise your day - and life - with Sharma's knowledge which, in this books, boils down to the importance of rising early at 5am to make the most of your day, mental wellbeing and productivity. Simply put, you should start your day with the 20/20/20 rule: spending 20 minutes for exercise, reflection and learning each.   "
     }
   ],
   Financial: [
@@ -36,6 +37,11 @@ const bookDB = {
       author: "Robert Kiyosaki",
       goodreads:
         "Kiyosaki tackles the ‘financial literacy” that’s never addressed in schools.  He had two father figures growing up.  One who struggled paycheck to paycheck for a lifetime whom he called “poor dad” and the other who was a multimillionaire eighth grade dropout he lovingly calls “rich dad”.  The concept behind the book is that rich people have money work for them while the poor work for money.  This is a must read to change anyone’s negative belief system on money or to further your understanding on how money can work "
+    },
+    {
+      name: "Rich Dad Poor Dad",
+      author: "Robert Kiyosaki",
+      goodreads: "Kiyosaki"
     }
   ],
   Entreprenure: [
@@ -44,6 +50,22 @@ const bookDB = {
       author: "zig zaglar",
       goodreads:
         "As one of America’s most gifted speakers/authors in motivation, the late Zig Ziglar shares the secrets of climbing the stairway to personal success. He presents a proven program of self-development based upon the foundation of a winning self-image."
+    },
+    {
+      name:
+        "Self-Love Workbook for Women: Release Self-Doubt, Build Self-Compassion, and Embrace Who You Are",
+      author: "zig zaglar",
+      goodreads: "Rating : 9/10 "
+    },
+    {
+      name: "If In Doubt, Wash Your Hair: A Manual for Life",
+      author: "Isha Patel",
+      goodreads: " Rating : 9/10 "
+    },
+    {
+      name: "Live Well Every Day: Your Plan for a Happy Body and Mind",
+      author: "kyu btau ",
+      goodreads: "Rating : 9/10 "
     }
   ]
 };
